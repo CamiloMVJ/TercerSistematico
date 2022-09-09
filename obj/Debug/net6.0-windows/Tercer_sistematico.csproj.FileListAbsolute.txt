@@ -1,0 +1,17 @@
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\obj\Debug\net6.0-windows\Tercer_sistematico.csproj.AssemblyReference.cache
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\obj\Debug\net6.0-windows\Tercer_sistematico.frmPromedio.resources
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\obj\Debug\net6.0-windows\Tercer_sistematico.csproj.GenerateResource.cache
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\obj\Debug\net6.0-windows\Tercer_sistematico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\obj\Debug\net6.0-windows\Tercer_sistematico.AssemblyInfoInputs.cache
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\obj\Debug\net6.0-windows\Tercer_sistematico.AssemblyInfo.cs
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\obj\Debug\net6.0-windows\Tercer_sistematico.csproj.CoreCompileInputs.cache
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\bin\Debug\net6.0-windows\Tercer_sistematico.exe
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\bin\Debug\net6.0-windows\Tercer_sistematico.deps.json
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\bin\Debug\net6.0-windows\Tercer_sistematico.runtimeconfig.json
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\bin\Debug\net6.0-windows\Tercer_sistematico.dll
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\bin\Debug\net6.0-windows\Tercer_sistematico.pdb
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\obj\Debug\net6.0-windows\Tercer_sistematico.dll
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\obj\Debug\net6.0-windows\refint\Tercer_sistematico.dll
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\obj\Debug\net6.0-windows\Tercer_sistematico.pdb
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\obj\Debug\net6.0-windows\Tercer_sistematico.genruntimeconfig.cache
+C:\Users\JADPA-23\Desktop\Tercer_Sistematico\Tercer_sistematico\obj\Debug\net6.0-windows\ref\Tercer_sistematico.dll
